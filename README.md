@@ -2,71 +2,85 @@
 <h3 align="center">DevOps Engineer | Cloud & Kubernetes Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghufran-azeem&label=Profile%20views&color=0e75b6&style=flat" alt="ghufran-azeem" />
+  <a href="https://github.com/ghufran-azeem">
+    <img src="https://komarev.com/ghpvc/?username=ghufran-azeem&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ghufran-azeem">
+    <img src="https://img.shields.io/github/followers/ghufran-azeem?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🔭 I’m currently working on **DevOps & Cloud Native Projects**
-- 🌱 Learning **Advanced Kubernetes, Terraform & GitOps**
+- 🌱 I’m learning **Advanced Kubernetes, Terraform & GitOps**
+- 👯 I’m looking to collaborate on **DevOps & Open Source Projects**
 - 💬 Ask me about **Docker, Kubernetes, AWS, CI/CD, Linux**
-- ⚡ Passionate about **automation, scalability & cloud engineering**
-- 🎯 Goal: **Cloud / DevOps Engineer (Global Opportunities)**
+- ⚡ Fun fact: **I automate everything I can**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧑‍💻 Tech Stack
 
-### 🚀 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions" />
+</p>
 
 ### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
 
-### 🧰 Others
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,nginx" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured DevOps Projects
 
-🚀 **Dockerized Applications**
-- Flask App with Docker & Docker Compose
-- Two-Tier App (Frontend + Backend + DB)
+🚀 **Docker Projects**
+- Dockerized Flask Applications
+- Multi-Container Apps using Docker Compose
+- Production-ready Dockerfiles
 
-☸️ **Kubernetes Projects**
-- Kubernetes Deployment & Services
-- HPA & Autoscaling Demo
-- EKS Cluster Deployment
+☸️ **Kubernetes**
+- Kubernetes Deployments & Services
+- HPA & Auto-Scaling
+- EKS Cluster Setup
 
 ⚙️ **CI/CD Pipelines**
 - GitHub Actions → Docker → AWS ECR → ECS
-- Jenkins CI/CD for Python & Django Apps
+- Jenkins CI/CD Pipelines
+- Automated Testing & Deployment
 
 ☁️ **Infrastructure as Code**
-- AWS Infra using Terraform
-- EC2, VPC, IAM automation
+- AWS Infrastructure using Terraform
+- EC2, VPC, IAM Automation
+
+---
+
+## 🏆 Learning & Challenges
+
+- ✅ Hands-on DevOps Training
+- ✅ Real-World CI/CD Projects
+- 🔄 Continuous Learning in Cloud & DevOps
+- 📘 Following **Cloud Native & DevOps Best Practices**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghufran-azeem&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghufran-azeem&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghufran-azeem&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghufran-azeem&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -84,4 +98,4 @@
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐️ **If you like my work, consider giving a star to my repositories!**
